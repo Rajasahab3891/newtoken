@@ -25,7 +25,7 @@ CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002125284798"))
 OWNER_ID = int(os.environ.get("OWNER_ID", "6655939309"))
 
 #Port
-PORT = os.environ.get("PORT", "8484")
+PORT = os.environ.get("PORT", "8989")
 
 #Database 
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://PANDABABY:PANDABABY@pandababy.rft5a3z.mongodb.net/?retryWrites=true&w=majority&appName=Pandababy")
